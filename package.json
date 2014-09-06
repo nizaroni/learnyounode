@@ -19,6 +19,7 @@
     "start": "learnyounode",
     "print": "learnyounode print",
     "help": "learnyounode help",
-    "hello": "learnyounode verify 01-hello.js"
+    "hello": "learnyounode verify 01-hello.js",
+    "baby-steps": "learnyounode verify 02-baby-steps.js"
   }
 }
