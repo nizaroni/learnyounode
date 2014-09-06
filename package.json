@@ -18,6 +18,7 @@
   "scripts": {
     "start": "learnyounode",
     "print": "learnyounode print",
-    "help": "learnyounode help"
+    "help": "learnyounode help",
+    "hello": "learnyounode verify 01-hello.js"
   }
 }
