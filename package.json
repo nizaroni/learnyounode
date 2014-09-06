@@ -1,0 +1,15 @@
+{
+  "name": "learnyounode",
+  "description": "Exercise solutions for `learnyounode`.",
+  "version": "1.0.0",
+  "author": "Nizar Khalife Iglesias <khalifenizar@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/khalifenizar/learnyounode/issues"
+  },
+  "homepage": "https://github.com/khalifenizar/learnyounode",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khalifenizar/learnyounode.git"
+  }
+}
