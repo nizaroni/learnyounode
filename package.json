@@ -7,6 +7,7 @@
     "url": "https://github.com/khalifenizar/learnyounode/issues"
   },
   "dependencies": {
+    "bl": "^0.9.1",
     "learnyounode": "^1.0.1"
   },
   "homepage": "https://github.com/khalifenizar/learnyounode",
@@ -25,6 +26,7 @@
     "io-async": "learnyounode verify 04-io-async.js",
     "ls": "learnyounode verify 05-ls.js",
     "modular": "learnyounode verify 06-modular.js",
-    "http-client": "learnyounode verify 07-http-client.js"
+    "http-client": "learnyounode verify 07-http-client.js",
+    "http-collect": "learnyounode verify 08-http-collect.js"
   }
 }
