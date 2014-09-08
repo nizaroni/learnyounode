@@ -30,6 +30,7 @@
     "http-client": "learnyounode verify 07-http-client.js",
     "http-collect": "learnyounode verify 08-http-collect.js",
     "juggling": "learnyounode verify 09-juggling.js",
-    "time": "learnyounode verify 10-time.js"
+    "time": "learnyounode verify 10-time.js",
+    "http-file": "learnyounode verify 11-http-file.js"
   }
 }
