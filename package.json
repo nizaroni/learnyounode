@@ -23,6 +23,7 @@
     "baby-steps": "learnyounode verify 02-baby-steps.js",
     "io": "learnyounode verify 03-io.js",
     "io-async": "learnyounode verify 04-io-async.js",
-    "ls": "learnyounode verify 05-ls.js"
+    "ls": "learnyounode verify 05-ls.js",
+    "modular": "learnyounode verify 06-modular.js"
   }
 }
