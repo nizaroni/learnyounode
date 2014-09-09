@@ -9,7 +9,8 @@
   "dependencies": {
     "bl": "^0.9.1",
     "learnyounode": "^1.0.1",
-    "strftime": "^0.8.2"
+    "strftime": "^0.8.2",
+    "through2-map": "^1.4.0"
   },
   "homepage": "https://github.com/khalifenizar/learnyounode",
   "license": "ISC",
@@ -31,6 +32,7 @@
     "http-collect": "learnyounode verify 08-http-collect.js",
     "juggling": "learnyounode verify 09-juggling.js",
     "time": "learnyounode verify 10-time.js",
-    "http-file": "learnyounode verify 11-http-file.js"
+    "http-file": "learnyounode verify 11-http-file.js",
+    "http-upper": "learnyounode verify 12-http-upper.js"
   }
 }
