@@ -33,6 +33,7 @@
     "juggling": "learnyounode verify 09-juggling.js",
     "time": "learnyounode verify 10-time.js",
     "http-file": "learnyounode verify 11-http-file.js",
-    "http-upper": "learnyounode verify 12-http-upper.js"
+    "http-upper": "learnyounode verify 12-http-upper.js",
+    "http-api": "learnyounode verify 13-http-api.js"
   }
 }
